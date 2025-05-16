@@ -1,8 +1,4 @@
-<h1 align="left">Welcome My Profile👋</h1>
-
-###
-
-<h4 align="center">My name is Fazlur Ridho and I'm a Web Developer, from Medan Sumatera Utara</h4>
+<h1 align="left">Hello, I'm Fazlur Ridho, I'm a Web Developer👋</h1>
 
 ###
 
@@ -44,14 +40,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhoo-svg/dhoo-svg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhoo-svg/dhoo-svg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhoo-svg/dhoo-svg/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
